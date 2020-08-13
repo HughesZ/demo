@@ -1,4 +1,5 @@
 def func(x,y):
+    '''this is what help displays'''
     z=x+y
     return z 
 
